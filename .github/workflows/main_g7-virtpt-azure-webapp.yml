@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'g7-virtpt-azure-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE6715C8F13945FF8229AA3E345618F0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5CFFE9B39D094F939677E71B5F8EA2F7 }}
